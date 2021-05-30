@@ -1,3 +1,5 @@
+//mileko xaina hai yo code
+
 #include <stdio.h>
 int main()
 {
