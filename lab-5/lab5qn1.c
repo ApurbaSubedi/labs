@@ -1,12 +1,9 @@
 #include<stdio.h>
-
-// functions declaration
 int addition(int a, int b);
 int subtraction(int a, int b);
 int multiplication(int a, int b);
 int division(int a, int b);
 
-// main function
 int main()
 {
   int num1, num2;
@@ -22,7 +19,6 @@ int main()
   return 0;
 }
 
-// function to add two integer numbers
 int addition(int a, int b)
 {
   int result;
@@ -30,7 +26,6 @@ int addition(int a, int b)
   return result;
 }
 
-// function to subtract two integer numbers
 int subtraction(int a, int b)
 {
   int result;
@@ -38,7 +33,6 @@ int subtraction(int a, int b)
   return result;
 }
 
-// function to multiply two integer numbers
 int multiplication(int a, int b)
 {
   int result;
@@ -46,7 +40,6 @@ int multiplication(int a, int b)
   return result;
 }
 
-// function to divide two integer numbers
 int division(int a, int b)
 {
   int result;

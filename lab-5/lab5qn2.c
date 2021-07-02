@@ -2,10 +2,10 @@
 void prime(int );
 int main()
 {
-int i;
+int a;
 printf("enter a number");
-scanf(" %d", &i);
-prime(i);
+scanf(" %d", &a);
+prime(a);
 }
 
 void prime(int i)
@@ -14,8 +14,6 @@ void prime(int i)
        {        if(i%x==0)
                 count++;
        }
-
-
                 if (count==2)
                 {       printf("The number is prime");}
         else
