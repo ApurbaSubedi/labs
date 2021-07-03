@@ -19,6 +19,10 @@ int main()
   return 0;
 }
 
+<<<<<<< HEAD
+=======
+
+>>>>>>> f99dcbe509379ad04c7f68f96bddbb627fdc6900
 int addition(int a, int b)
 {
   int result;
@@ -26,6 +30,10 @@ int addition(int a, int b)
   return result;
 }
 
+<<<<<<< HEAD
+=======
+
+>>>>>>> f99dcbe509379ad04c7f68f96bddbb627fdc6900
 int subtraction(int a, int b)
 {
   int result;
